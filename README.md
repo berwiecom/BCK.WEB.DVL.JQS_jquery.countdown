@@ -1,8 +1,8 @@
 # [jQuery Countdown](https://github.com/kemar/jquery.countdown)
 
-Unobtrusive and easily skinable countdown jQuery plugin generating a `<time>` tag.
+Unobtrusive and easily skinable countdown jQuery plugin generating a `<time>` tag. [Live demo](https://kemar.github.io/jquery.countdown/).
 
-[Live demo](https://kemar.github.io/jquery.countdown/).
+![Example of jquery.countdown in action](https://user-images.githubusercontent.com/34105153/126042608-c685712a-d001-4420-ac33-b6163fc4f9a7.png)
 
 
 ## Supported browsers
